@@ -10,10 +10,13 @@ This is learning HTML,Javascript and CSS.
 
 ## Analog Clock 
 ![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(56).png)
+* link : https://nimeshpiyumantha.github.io/Clock/analogClock
 ## Digital Clock
 ![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(57).png)
+* link : https://nimeshpiyumantha.github.io/Clock/digitalClock
 ## Digital Time
 ![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(58).png)
+* link : https://nimeshpiyumantha.github.io/Clock/digitalTime
 
 
 ##  Connect with me
