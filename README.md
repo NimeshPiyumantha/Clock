@@ -12,6 +12,8 @@ This is learning HTML,Javascript and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(56).png)
 ## Digital Clock
 ![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(57).png)
+## Digital Time
+![alt text](https://github.com/NimeshPiyumantha/Clock/blob/main/screenshorts/Screenshot%20(58).png)
 
 
 ##  Connect with me
