@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e2588e4-aaf5-46f9-bfc0-0a506e33a388" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/digitalTime/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digitalTime/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screenshorts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\HTML\Clock\screenshorts" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655150011240</updated>
       <workItem from="1655150013133" duration="69000" />
-      <workItem from="1655179843239" duration="4791000" />
+      <workItem from="1655179843239" duration="5168000" />
+      <workItem from="1655191019300" duration="326000" />
     </task>
     <servers />
   </component>
@@ -58,5 +64,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
